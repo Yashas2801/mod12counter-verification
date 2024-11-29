@@ -6,7 +6,7 @@ A project to verify the loadable mod 12 up down counter using system verilog and
 
 
 
-## Run Locally Using Questasim GUI terminal
+## Linux commands for Questasim
 
 Create a working liberary
 
@@ -27,3 +27,16 @@ Simulate your design with coverage enabled
 ```
 
 
+
+## Run in Questasim terminal
+
+Verify mod_12_counter.sv file and run.do file existes in your project using command
+
+```bash
+  ls
+```
+Run the run.do
+```bash
+  do run.do
+```
+    
